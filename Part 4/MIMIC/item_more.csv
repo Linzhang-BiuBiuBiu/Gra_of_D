@@ -1,0 +1,26 @@
+ROW_ID,ITEMID,LABEL,FLUID,CATEGORY,simit,simply,Measure_unit
+63,50862,Albumin,Blood,Chemistry,Alb_Bl_C,ALB,g/dL
+69,50868,Anion Gap,Blood,Chemistry,Ani_Bl_C,AG,mEq/L
+83,50882,Bicarbonate,Blood,Chemistry,Bic_Bl_C,HCO3,mEq/L
+94,50893,"Calcium, Total",Blood,Chemistry,Cal_Bl_C,Ca,mg/dL
+103,50902,Chloride,Blood,Chemistry,Chl_Bl_C,Cl,mEq/L
+113,50912,Creatinine,Blood,Chemistry,Cre_Bl_C.2,SCR,mg/dL
+132,50931,Glucose,Blood,Chemistry,Glu_Bl_C,Glu,mg/dL
+161,50960,Magnesium,Blood,Chemistry,Mag_Bl_C,Mg,mg/dL
+164,50963,NTproBNP,Blood,Chemistry,NTp_Bl_C,NTproBNP,pg/mL
+171,50970,Phosphate,Blood,Chemistry,Pho_Bl_C,Pho,mg/dL
+172,50971,Potassium,Blood,Chemistry,Pot_Bl_C,K,mEq/L
+184,50983,Sodium,Blood,Chemistry,Sod_Bl_C,Na,mEq/L
+206,51006,Urea Nitrogen,Blood,Chemistry,Ure_Bl_C,BUN,mg/dL
+421,51221,Hematocrit,Blood,Hematology,Hem_Bl_H,HCT,%
+422,51222,Hemoglobin,Blood,Hematology,Hem_Bl_H.1,Hg,g/dL
+437,51237,INR(PT),Blood,Hematology,INR_Bl_H,INR,
+448,51248,MCH,Blood,Hematology,MCH_Bl_H,MCH,pg
+449,51249,MCHC,Blood,Hematology,MCH_Bl_H.1,MCHC,%
+450,51250,MCV,Blood,Hematology,MCV_Bl_H,MCV,fL
+465,51265,Platelet Count,Blood,Hematology,Pla_Bl_H,Pla,K/uL
+474,51274,PT,Blood,Hematology,PT_Bl_H,PT,SECONDS
+475,51275,PTT,Blood,Hematology,PTT_Bl_H,PTT,sec
+477,51277,RDW,Blood,Hematology,RDW_Bl_H,RDW,%
+479,51279,Red Blood Cells,Blood,Hematology,Red_Bl_H,RBC,m/uL
+501,51301,White Blood Cells,Blood,Hematology,Whi_Bl_H,WBC,K/uL
